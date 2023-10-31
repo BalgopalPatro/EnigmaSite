@@ -1,0 +1,45 @@
+# Dependency directories
+/node_modules
+
+# Build files
+/build
+/dist
+
+# Environment variables file
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Editor/IDE specific files
+.idea
+.vscode
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# User-specific files
+*.log
+*.swp
+*.swo
+
+# Mac OS
+.DS_Store
+
+# Webpack HMR
+.hot-update.json
+
+# Jest test results
+test-results
+
+# Coverage directory
+coverage
+
+# IDE settings
+.iml
+
+# Caches
+.cacache
+.cache
